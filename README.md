@@ -18,8 +18,8 @@
 - SQL (https://github.com/Jeckilla/educational-sertificates/blob/main/SQL.pdf)
 - GIT (https://github.com/Jeckilla/educational-sertificates/blob/main/git.pdf)
 
-Моё резюме - (https://github.com/Jeckilla/educational-sertificates/blob/main/Резюме%20Бирюлина%20Е.И.%20Python%20веб-разработчик.docx)
+[Моё резюме](https://github.com/Jeckilla/educational-sertificates/blob/main/Резюме%20Бирюлина%20Е.И.%20Python%20веб-разработчик.docx)
 
 Связаться со мной можно 
-по телефону: +79602421033
-Telegram: (https://t.me/jeckilla)
+- по телефону +79602421033
+- [Telegram] (https://t.me/jeckilla)
