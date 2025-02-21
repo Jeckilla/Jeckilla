@@ -22,4 +22,4 @@
 
 Связаться со мной можно 
 - по телефону +79602421033
-- [Telegram](https://t.me/jeckilla) t.me/jeckilla
+- [Telegram](https://t.me/jeckilla)
